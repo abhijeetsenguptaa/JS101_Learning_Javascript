@@ -1,0 +1,13 @@
+console.log("                REPORT CARD                ");
+console.log("✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿");
+let name = ("Abhijeet Sen Gupta");
+let school = ("Masai School");
+let grade = ("A");
+let section = ("A");
+let roll_no = ("fw23_0047");
+let marks = (300);
+console.log("Name:", name);
+console.log("School:", school);
+console.log("Grade:", grade);
+console.log("Roll No.:", roll_no);
+console.log("Total Marks obtained in 3 Subjects :", marks);
